@@ -12,9 +12,8 @@ environment:
 
 
 dependencies:
-  webview_flutter_plus: ^0.3.0+2
   markdown: ^4.0.1
-  # webview_flutter: ^4.0.7
+  webview_flutter_plus: ^0.3.0+2
 
   flutter:
     sdk: flutter
